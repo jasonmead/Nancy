@@ -415,7 +415,6 @@
     <Compile Include="Json\JavaScriptSerializer.cs" />
     <Compile Include="Json\JavaScriptTypeResolver.cs" />
     <Compile Include="Json\Json.cs" />
-    <Compile Include="Json\JsonDeserializer.cs" />
     <Compile Include="Json\JsonSerializer.cs" />
     <Compile Include="Helpers\ReflectionUtils.cs" />
     <Compile Include="Json\ScriptIgnoreAttribute.cs" />
