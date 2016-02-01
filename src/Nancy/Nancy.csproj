@@ -202,6 +202,7 @@
     <Compile Include="Json\JavaScriptPrimitiveConverter.cs" />
     <Compile Include="Json\JsonConfigurationExtensions.cs" />
     <Compile Include="Json\Simple\NancySerializationStrategy.cs" />
+    <Compile Include="Json\Simple\SimpleJson.cs" />
     <Compile Include="Localization\TextResourceFinder.cs" />
     <Compile Include="Helpers\TaskHelpers.cs" />
     <Compile Include="ModelBinding\BindingConfig.cs" />
@@ -317,7 +318,6 @@
     <Compile Include="Routing\Trie\TrieNodeFactory.cs" />
     <Compile Include="Security\SSLProxy.cs" />
     <Compile Include="Session\CookieBasedSessionsConfiguration.cs" />
-    <Compile Include="SimpleJson.cs" />
     <Compile Include="StaticContent.cs" />
     <Compile Include="Conventions\ViewLocationConventions.cs" />
     <Compile Include="Cryptography\Base64Helpers.cs" />
